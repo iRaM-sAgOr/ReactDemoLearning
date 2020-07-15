@@ -23,6 +23,7 @@ Deactivate: $deactivate
 NB: It is not mendatory to use virtual environment.
 
 2. Setup Node and NPM
+
 A. For windows we need to just download the nodejs.exe and install it. Remind it to add the path variable of the 
 nodejs in the system environment.
 
