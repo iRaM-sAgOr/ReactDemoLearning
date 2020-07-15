@@ -5,15 +5,16 @@ routing and api implementation with axios.
 Here we have implemented some optional elements as: video container as banner, image as banner, 
 Quatation, Card view, footer, text view, form element, modal creation, table creation etc.
 
-2. parent_to_child: 
-
+2. parent_to_child: Here we can have two different application. One is default way of passing
+data from parent class to child class. It is explained in the text file attached with the project.
+Another one is to access the child method from parent component. Also explained in a text file
 
 
 ########################....How to use one of these project in your local environment....#################
 1. Create an environment in you local pc:
 $ pip install virtualenv
 Create:$ virtualenv env_name
-Activate: $source env_name/bin/activate(windows don’t use source)
+Activate: $source env_name/bin/activate(windows donâ€™t use source)
 Deactivate: $deactivate
 ..........................................
 Create : $python -m venv env_name
