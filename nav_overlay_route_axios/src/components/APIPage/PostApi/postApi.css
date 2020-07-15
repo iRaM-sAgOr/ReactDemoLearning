@@ -1,0 +1,11 @@
+.FormStyle{
+    font-size: large;
+    /* transform: scale(1.5); */
+}
+
+#modalBTN{
+    font-size:large;
+    background-color: brown;
+    color:white;
+    border-color: brown;
+}

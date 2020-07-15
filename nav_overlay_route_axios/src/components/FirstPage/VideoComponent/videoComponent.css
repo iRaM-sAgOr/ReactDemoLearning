@@ -1,0 +1,59 @@
+.VideoStyleBanner {
+    background: linear-gradient(#f50505, rgba(240, 197, 197, 0.25));
+    background-size:cover;
+    background-position: center;
+    /* position: relative; */
+    /* vertical-align: baseline; */
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    overflow: hidden;
+    height: 700px;
+    color: white;
+}
+
+.PClass{
+    font-size: large;
+    text-align:center;
+}
+
+#h1-style {
+    color:White;
+    font-size:80px;
+    position: absolute; 
+    display: block;
+}
+
+#containerStyle p{
+    color:white;
+    font-size: larger;
+    margin-top:100px;
+}
+
+.header-style {
+    background-color: #471313e3;
+    overflow:hidden;
+    height:700px;
+}
+
+.video-style {
+    opacity: 0.3;
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#containerStyle{
+    text-align: center;
+}
+
+.HomeStyleBanner {
+    background-size:cover;
+    position: relative;
+    vertical-align: baseline;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 210px;
+}

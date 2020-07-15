@@ -1,0 +1,18 @@
+#bodyMargin{
+    padding: 10px;
+    padding-bottom: 10px;
+}
+
+#textStyle{
+    margin-top:30px;
+    margin-bottom: 40px;
+    display: block;
+}
+
+#textStyle h1{
+    font-size: 60px;
+}
+
+#textStyle p{
+    font-size: 30px;
+}

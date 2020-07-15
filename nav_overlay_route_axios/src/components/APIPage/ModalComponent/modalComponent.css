@@ -1,0 +1,10 @@
+.FormStyle{
+    font-size: large;
+    color: black;
+    transform: scale(1.5);
+}
+
+#UmodalBTN{
+    font-size:large;
+    background-color: brown;
+    border-color: brown;

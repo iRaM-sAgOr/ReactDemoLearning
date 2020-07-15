@@ -1,0 +1,43 @@
+
+
+.fa{
+ font-size:30px;
+ color: red;
+ align-items: left;
+}
+
+.table{
+    font-size:15px;
+}
+
+.btn{
+    font-size:20px;
+    
+}
+
+.fa-search{
+    background-color:rgb(59, 241, 23);
+    color:red;
+}
+
+.form-class{
+    size:30px;
+}
+
+.CoverStyleBanner {
+    height: 400px;
+    min-height:100%;
+    background: linear-gradient(#f50505, rgba(240, 197, 197, 0.25)), url(./assets/image/banner.jpg);
+    background-size:cover;
+    position: relative;
+    vertical-align: baseline;
+    font-size: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 210px;
+}
+
+.textStyle{
+    font-size: 4.5rem;
+}

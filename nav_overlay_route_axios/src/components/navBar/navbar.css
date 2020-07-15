@@ -1,0 +1,9 @@
+#navBarStyle{
+    position: fixed;
+    font-size: large;
+    overflow: hidden
+
+}
+.fontStyle{
+    font-size: 26px
+}
