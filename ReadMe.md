@@ -7,7 +7,8 @@ Quatation, Card view, footer, text view, form element, modal creation, table cre
 
 2. parent_to_child: Here we can have two different application. One is default way of passing
 data from parent class to child class. It is explained in the text file attached with the project.
-Another one is to access the child method from parent component. Also explained in a text file
+Another one is to access the child method from parent component. Also explained in a text file.
+--It contains "Higher order component" property and "Error boundary" property implemented.
 
 
 ########################....How to use one of these project in your local environment....#################
